@@ -6,8 +6,6 @@ const App = () => {
 
   return (
     <div>
-      <label>Enter your name: </label>
-      <br />
       <input
         type="text"
         value={name}
